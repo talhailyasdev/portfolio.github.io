@@ -54,6 +54,19 @@
   <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px;">
 </div>
 
+#### 1. **Taskly App**  
+- A mobile application designed to bridge the communication gap between students and teachers.  
+- **Technologies**: Flutter, Firebase
+- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
+
+<div align="center">
+  <img src="assets/images/01.jpg" alt="Taskly App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/02.jpg" alt="Taskly App Screenshot 2" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/03.jpg" alt="Taskly App Screenshot 3" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/04.jpg" alt="Taskly App Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/05.jpg" alt="Taskly App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+</div>
+
 
 
 
