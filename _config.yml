@@ -1,5 +1,5 @@
 title: Talha Ilyas
-logo: "<img src='/assets/images/myphoto.jpg' alt='Talha Ilyas' style='border-radius: 50%; width: 150px; height: 150px;'>"
+logo: /assets/images/myphoto.jpg
 description: Flutter App Developer | Software Engineer
 show_downloads: true
 theme: jekyll-theme-minimal
