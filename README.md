@@ -1,5 +1,5 @@
-### 💻 Projects
-#### 1. **Educational App**  
+### <span style="font-size: 1.8em;">💻 Projects</span>
+#### <span style="font-size: 1.5em;"><b>1. Educational App</b></span> 
 -  The project aims to create user friendly mobile application that facilitates the student and teachers It provides bridge between student and teacher.
 -  The application will provide addition functionalities like Push notification, login, sign up ,upload content, view content and community to engage.
 -  It also provide progress tracking and educational resources to offer comprehensive experience to User.
@@ -19,7 +19,7 @@
   <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
 ---
-#### 2. **Taskly App**  
+#### <span style="font-size: 1.5em;"><b>2. Taskly App</b></span> 
 - Worked on this small Flutter app which allows users to manage tasks for each day of the month.
 - Users can add, mark as complete, or delete tasks. It utilizes Hive for local storage and Shared Preferences to persist the selected month.
 - The app features a task list, dynamic task status display (completed/pending), and a month/day selection interface.
@@ -34,7 +34,7 @@
   <img src="assets/images/05.jpg" alt="Taskly App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
 ---
-#### 3. **Front-End UI**  
+#### <span style="font-size: 1.5em;"><b>3. Front-End UI</b></span> 
 -  Created This UI  which has calander,show analytics of social media app and has chat options for users.
 - **Technologies**: Flutter,Dart,MVVM,Figma,Canva,Visual Studio Code  
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
