@@ -39,11 +39,17 @@
 ---
 
 ### 💻 Projects
-
 #### 1. **Educational App**  
 - A mobile application designed to bridge the communication gap between students and teachers.  
-- **Technologies**: Flutter, Firebase  
-- ![Educational App Screenshot 1](assets/images/1.jpg)  
-- ![Educational App Screenshot 2](assets/images/2.jpg)  
-- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp)
+- **Technologies**: Flutter, Firebase
+- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
+
+<div align="center">
+  <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="45%" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/images/2.jpg" alt="Educational App Screenshot 2" width="45%" style="display: inline-block;">
+</div>  
+
+
+
+
 
