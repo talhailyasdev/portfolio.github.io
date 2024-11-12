@@ -69,17 +69,17 @@
 
 #### 3. **Front-End UI**  
 - A task management app designed to increase productivity and organization.  
-- **Technologies**: Flutter, Firebase
+- **Technologies**: Flutter, Firebase  
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
 <div align="center">
-  <img src="assets/images/10.jpg" alt="Front-end UI Screenshot 1" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/20.jpg" alt="Front-end UI Screenshot 2" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/30.jpg" alt="Front-end UI Screenshot 3" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/40.jpg" alt="Front-end UI Screenshot 4" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/50.jpg" alt="Front-end UI Screenshot 5" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/60.jpg" alt="Front-end UI Screenshot 6" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
-  <img src="assets/images/70.jpg" alt="Front-end UI Screenshot 7" width="200px" height="200px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/10.jpg" alt="Front-end UI Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/20.jpg" alt="Front-end UI Screenshot 2" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/30.jpg" alt="Front-end UI Screenshot 3" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/40.jpg" alt="Front-end UI Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/50.jpg" alt="Front-end UI Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/60.jpg" alt="Front-end UI Screenshot 6" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/70.jpg" alt="Front-end UI Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
 
 
