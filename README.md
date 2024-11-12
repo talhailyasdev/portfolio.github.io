@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="/assets/images/myphoto01.png" alt="Talha Ilyas" width="150" height="150" style="border-radius: 50%; object-fit: cover; margin-top: 20px;">
-</div>
+<p align="center">
+  <img src="/assets/images/myphoto01.png" alt="Talha Ilyas" width="150" height="150">
+</p>
+
 ---
 
 ### 💼 Work Experience
