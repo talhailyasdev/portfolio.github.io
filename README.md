@@ -63,3 +63,4 @@ I am a **Software Engineer** with expertise in **mobile app development**, passi
 
 - **Digital Marketing** - Digi Skills Training Program, Pakistan
 - **Freelancing** - Digi Skills Training Program, Pakistan
+
