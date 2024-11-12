@@ -13,54 +13,32 @@ I am a **Software Engineer** with expertise in **mobile app development**, passi
 
 ---
 
-### 📚 Education
-
-- **Bachelor of Science in Software Engineering**  
-  Kohat University of Science and Technology  
-  **GPA**: 3.4 / 4.0 (2020 - 2024)
-
-- **Pre-Engineering**  
-  Edwardes College, Peshawar  
-  **Grade**: A (76.5%)
-
-- **High School**  
-  University Public School, Peshawar  
-  **Grade**: A+ (83.3%)
-
----
-
 ### 💼 Work Experience
 
-#### Mobile App Developer (Start-up: [Pentesters House](https://nep.pitb.gov.pk/node/571))
-- **Responsibilities**: Flutter Front-End Development, Firebase Integration, MVVM Architecture, and REST APIs.
-- **Key Projects**:
-  - **Final Year Project**: Educational App aimed at bridging the gap between students and teachers, facilitating communication and learning.
-  - **GitHub Repository**: [Educational App](https://github.com/Talhailyas309/MyEducationalApp)
+#### Mobile App Developer  
+- Working on Flutter and Dart  
+- Flutter Front-End Developer  
+- Firebase Integration, MVVM Architecture, REST APIs
 
-#### Mobile App Developer Internship
-- **NATIONAL EXPANSION PLAN OF NIC’s** – Kohat (6-month Internship)
-- **Responsibilities**: Flutter development, graphic design for the startup.
-- **Company Link**: [Atomix Technologies](https://www.linkedin.com/company/atomixtechnologies)
+#### Flutter Internship Remote at Atomix Technologies  
+- Completed 6 months Internship  
+- [Atomix Technologies LinkedIn](https://www.linkedin.com/company/atomixtechnologies)
 
----
+#### Final Year Project  
+- Educational App which aims to create a user-friendly mobile application that facilitates communication between students and teachers.  
+- It provides a bridge between students and teachers.  
+- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp)
+
+#### Mobile App Developer Internship at NATIONAL EXPANSION PLAN OF NIC’s Kohat  
+- Flutter App Developer Internship at NATIONAL EXPANSION PLAN of NIC Kohat
+
+#### Graphic Designer at Startup Pentesters House at NIP NIC’s Kohat  
+- Start-up [pentestershouse.pk](https://nep.pitb.gov.pk/node/571)
+
 
 ### 🛠️ Technical Skills
 
 - **Languages & Technologies**: Flutter, Dart, Android App Development, C++, Java, DBMS
 - **Other Skills**: Front-End Web Development, Software Project Management, Digital Marketing, Graphic Design
 
----
-
-### 🌐 Languages
-
-- **English**: Fluent
-- **Urdu**: Fluent
-- **Pashto**: Fluent
-
----
-
-### 📜 Certifications
-
-- **Digital Marketing** - Digi Skills Training Program, Pakistan
-- **Freelancing** - Digi Skills Training Program, Pakistan
 
