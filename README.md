@@ -1,5 +1,4 @@
 # Flutter Developer Portfolio
-<img src="assets/images/myphoto.jpg" alt="Talha Ilyas" style="border-radius: 50%; width: 150px; height: 150px;">
 
 📍 **Location**: Islamabad  
 📞 **Contact**: +92-3315232726  
