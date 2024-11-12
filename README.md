@@ -1,4 +1,3 @@
----
 ### 💻 Projects
 #### 1. **Educational App**  
 -  The project aims to create user friendly mobile application that facilitates the student and teachers It provides bridge between student and teacher.
