@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="/assets/images/myphoto01.png" alt="Talha Ilyas" width="150" height="150">
-</p>
-
+![Talha Ilyas](/assets/images/myphoto01.png)
 ---
 
 ### 💼 Work Experience
