@@ -45,26 +45,26 @@
 - [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
 
 <div align="center">
-  <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/2.jpg" alt="Educational App Screenshot 2" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/3.jpg" alt="Educational App Screenshot 3" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/4.jpg" alt="Educational App Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/5.jpg" alt="Educational App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/6.jpg" alt="Educational App Screenshot 6" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/2.jpg" alt="Educational App Screenshot 2" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/3.jpg" alt="Educational App Screenshot 3" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/4.jpg" alt="Educational App Screenshot 4" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/5.jpg" alt="Educational App Screenshot 5" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/6.jpg" alt="Educational App Screenshot 6" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
 
-#### 1. **Taskly App**  
-- A mobile application designed to bridge the communication gap between students and teachers.  
+#### 2. **Taskly App**  
+- A task management app designed to increase productivity and organization.  
 - **Technologies**: Flutter, Firebase
-- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
+- [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
 <div align="center">
-  <img src="assets/images/01.jpg" alt="Taskly App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/02.jpg" alt="Taskly App Screenshot 2" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/03.jpg" alt="Taskly App Screenshot 3" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/04.jpg" alt="Taskly App Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px;">
-  <img src="assets/images/05.jpg" alt="Taskly App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/01.jpg" alt="Taskly App Screenshot 1" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/02.jpg" alt="Taskly App Screenshot 2" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/03.jpg" alt="Taskly App Screenshot 3" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/04.jpg" alt="Taskly App Screenshot 4" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
+  <img src="assets/images/05.jpg" alt="Taskly App Screenshot 5" width="200px" height="150px" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
 
 
