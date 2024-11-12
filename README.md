@@ -39,8 +39,11 @@
 ---
 ### 💻 Projects
 #### 1. **Educational App**  
-- A mobile application designed to bridge the communication gap between students and teachers.  
-- **Technologies**: Flutter, Firebase  
+-  The project aims to create user friendly mobile application that facilitates the student and teachers It provides bridge between student and teacher.
+-  The application will provide addition functionalities like Push notification, login, sign up ,upload content, view content and community to engage.
+-  It also provide progress tracking and educational resources to offer comprehensive experience to User.
+-  The goal of the educational app is to provide study hub and innovative platform to help users gain knowledge, acquire information.
+-  To view one single thing from several perspective and enhance their learning experience.
 - [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
 
 <div align="center">
@@ -54,7 +57,9 @@
 </div>
 
 #### 2. **Taskly App**  
-- A task management app designed to increase productivity and organization.  
+- Worked on this small Flutter app which allows users to manage tasks for each day of the month.
+- Users can add, mark as complete, or delete tasks. It utilizes Hive for local storage and Shared Preferences to persist the selected month.
+- The app features a task list, dynamic task status display (completed/pending), and a month/day selection interface.
 - **Technologies**: Flutter, Firebase  
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
@@ -67,7 +72,7 @@
 </div>
 
 #### 3. **Front-End UI**  
-- A task management app designed to increase productivity and organization.  
+-  Created This UI  which has calander,show analytics of social media app and has chat options for users.
 - **Technologies**: Flutter, Firebase  
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
