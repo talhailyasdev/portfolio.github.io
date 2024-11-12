@@ -45,14 +45,15 @@
 - [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
 
 <div align="center">
-  <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="45%" style="display: inline-block; margin-right: 10px;">
-  <img src="assets/images/2.jpg" alt="Educational App Screenshot 2" width="45%" style="display: inline-block;">
-   <img src="assets/images/3.jpg" alt="Educational App Screenshot 3" width="45%" style="display: inline-block;">
-   <img src="assets/images/4.jpg" alt="Educational App Screenshot 4" width="45%" style="display: inline-block;">
-   <img src="assets/images/5.jpg" alt="Educational App Screenshot 5" width="45%" style="display: inline-block;">
-   <img src="assets/images/6.jpg" alt="Educational App Screenshot 6" width="45%" style="display: inline-block;">
-    <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="45%" style="display: inline-block;">
-</div>  
+  <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/2.jpg" alt="Educational App Screenshot 2" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/3.jpg" alt="Educational App Screenshot 3" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/4.jpg" alt="Educational App Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/5.jpg" alt="Educational App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/6.jpg" alt="Educational App Screenshot 6" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+  <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px;">
+</div>
+
 
 
 
