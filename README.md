@@ -1,10 +1,6 @@
-# Flutter Developer Portfolio
-
-📍 **Location**: Islamabad  
-📞 **Contact**: +92-3315232726  
-📧 **Email**: [talha.ilyas309@gmail.com](mailto:talha.ilyas309@gmail.com)  
-🔗 **LinkedIn Profile**: [LinkedIn](https://www.linkedin.com/in/talha-ilyas-dev)  
-
+<div align="center">
+  <img src="/assets/images/myphoto01.png" alt="Talha Ilyas" width="150" height="150" style="border-radius: 50%; object-fit: cover; margin-top: 20px;">
+</div>
 ---
 
 ### 💼 Work Experience
@@ -57,7 +53,7 @@
   <img src="assets/images/6.jpg" alt="Educational App Screenshot 6" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
   <img src="assets/images/7.jpg" alt="Educational App Screenshot 7" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
-
+---
 #### 2. **Taskly App**  
 - Worked on this small Flutter app which allows users to manage tasks for each day of the month.
 - Users can add, mark as complete, or delete tasks. It utilizes Hive for local storage and Shared Preferences to persist the selected month.
@@ -72,7 +68,7 @@
   <img src="assets/images/04.jpg" alt="Taskly App Screenshot 4" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
   <img src="assets/images/05.jpg" alt="Taskly App Screenshot 5" width="200px" height="auto" style="display: inline-block; margin: 10px; object-fit: cover;">
 </div>
-
+---
 #### 3. **Front-End UI**  
 -  Created This UI  which has calander,show analytics of social media app and has chat options for users.
 - **Technologies**: Flutter,Dart,MVVM,Figma,Canva,Visual Studio Code  
