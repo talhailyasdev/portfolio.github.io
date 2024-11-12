@@ -5,13 +5,6 @@
 📧 **Email**: [talha.ilyas309@gmail.com](mailto:talha.ilyas309@gmail.com)  
 🔗 **LinkedIn Profile**: [LinkedIn](https://www.linkedin.com/in/talha-ilyas-dev)  
 
----
-
-### 👋 About Me
-
-I am a **Software Engineer** with expertise in **mobile app development**, passionate about creating innovative and efficient mobile solutions. With a solid foundation in app development and a keen interest in AI-driven projects, I aim to push the boundaries of what’s possible in mobile applications.
-
----
 
 ### 💼 Work Experience
 
