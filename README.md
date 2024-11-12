@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/images/myphoto01.png" alt="Talha Ilyas" width="100" height="100">
+  <img src="/assets/images/finalphoto.png" alt="Talha Ilyas" width="150" height="150">
 </p>
 ---
 
