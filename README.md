@@ -1,10 +1,11 @@
-#  Flutter Developer Portfolio
+# Flutter Developer Portfolio
 
 📍 **Location**: Islamabad  
 📞 **Contact**: +92-3315232726  
 📧 **Email**: [talha.ilyas309@gmail.com](mailto:talha.ilyas309@gmail.com)  
 🔗 **LinkedIn Profile**: [LinkedIn](https://www.linkedin.com/in/talha-ilyas-dev)  
 
+---
 
 ### 💼 Work Experience
 
@@ -28,10 +29,21 @@
 #### Graphic Designer at Startup Pentesters House at NIP NIC’s Kohat  
 - Start-up [pentestershouse.pk](https://nep.pitb.gov.pk/node/571)
 
+---
 
 ### 🛠️ Technical Skills
 
-- **Languages & Technologies**: Flutter, Dart, Android App Development, C++, Java, DBMS
+- **Languages & Technologies**: Flutter, Dart, Android App Development, C++, Java, DBMS  
 - **Other Skills**: Front-End Web Development, Software Project Management, Digital Marketing, Graphic Design
 
+---
+
+### 💻 Projects
+
+#### 1. **Educational App**  
+- A mobile application designed to bridge the communication gap between students and teachers.  
+- **Technologies**: Flutter, Firebase  
+- ![Educational App Screenshot 1](assets/images/1.jpg)  
+- ![Educational App Screenshot 2](assets/images/2.jpg)  
+- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp)
 
