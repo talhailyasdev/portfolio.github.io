@@ -44,6 +44,8 @@
 -  It also provide progress tracking and educational resources to offer comprehensive experience to User.
 -  The goal of the educational app is to provide study hub and innovative platform to help users gain knowledge, acquire information.
 -  To view one single thing from several perspective and enhance their learning experience.
+
+- **Technologies**: Flutter,Dart,Firebase,MVVM,Figma,Canva,Visual Studio Code
 - [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp) 
 
 <div align="center">
@@ -60,7 +62,7 @@
 - Worked on this small Flutter app which allows users to manage tasks for each day of the month.
 - Users can add, mark as complete, or delete tasks. It utilizes Hive for local storage and Shared Preferences to persist the selected month.
 - The app features a task list, dynamic task status display (completed/pending), and a month/day selection interface.
-- **Technologies**: Flutter, Firebase  
+- **Technologies**: Flutter,Dart,Hive Database,MVVM,Figma,Canva,Visual Studio Code 
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
 <div align="center">
@@ -73,7 +75,7 @@
 
 #### 3. **Front-End UI**  
 -  Created This UI  which has calander,show analytics of social media app and has chat options for users.
-- **Technologies**: Flutter, Firebase  
+- **Technologies**: Flutter,Dart,MVVM,Figma,Canva,Visual Studio Code  
 - [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp) 
 
 <div align="center">
