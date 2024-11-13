@@ -7,7 +7,7 @@
 - The app serves as a study hub and innovative platform to help users gain knowledge and acquire information from multiple perspectives.
 
 - **Technologies**: Flutter, Dart, Firebase, MVVM, Figma, Canva, Visual Studio Code
-- [GitHub Repository: My Educational App](https://github.com/Talhailyas309/MyEducationalApp)
+- [GitHub Repository: My Educational App](https://github.com/talhailyasdev/MyEducationalApp)
 
 <div align="center">
   <img src="assets/images/1.jpg" alt="Educational App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
@@ -27,7 +27,7 @@
 - The app features a task list, dynamic task status display (completed/pending), and a month/day selection interface.
 
 - **Technologies**: Flutter, Dart, Hive Database, MVVM, Figma, Canva, Visual Studio Code
-- [GitHub Repository: Taskly App](https://github.com/Talhailyas309/TasklyApp)
+- [GitHub Repository: Taskly App](https://github.com/talhailyasdev/Taskly-App)
 
 <div align="center">
   <img src="assets/images/01.jpg" alt="Taskly App Screenshot 1" width="200px" height="auto" style="display: inline-block; margin: 10px;">
